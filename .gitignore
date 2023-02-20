@@ -1,0 +1,7 @@
+
+*.vsidx
+*.lock
+src/.vs/
+src/Itis.Client.sln.DotSettings.user
+src/Itis.Client/bin/
+src/Itis.Client/obj/
